@@ -1,0 +1,287 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"c",
+				"customer_tests"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 511,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/todd/Source/duckpunch"
+	],
+	"file_history":
+	[
+		"/Z/xampp/htdocs/iframe/index.html",
+		"/Z/xampp/htdocs/iframe/iframe.html",
+		"/Z/xampp/htdocs/index.html",
+		"/C/Users/todd/Downloads/E2DP56C6S2ASDG.2014-09-23-06.uvC3ElMV/E2DP56C6S2ASDG.2014-09-23-06.uvC3ElMV",
+		"/C/Users/todd/Source/jserror/public/async.html",
+		"/C/Users/todd/Source/TrackJS/server/README.md",
+		"/C/Users/todd/Source/TrackJS/www/pricing.html",
+		"/Z/elasticsearch/elasticsearch-1.1.1/config/elasticsearch.yml",
+		"/C/Users/todd/Source/TrackJS/tracker/demo/index.html",
+		"/C/Users/todd/Downloads/imagesbymoak/jennmoakphotography.wordpress.2014-08-06-rewrittenurls.xml",
+		"/C/Users/todd/Downloads/imagesbymoak/wordpress.2014-08-06.xml",
+		"/Z/Dropbox/notepadconf/index.html",
+		"/Z/Dropbox/notepadconf/css/main.css",
+		"/C/Users/todd/Source/TrackJS/tracker/src/callbackWatcher.js",
+		"/C/Users/todd/Source/TrackJS/tracker/tests/unit/callbackWatcher.tests.js",
+		"/C/Users/todd/Source/TrackJS/tracker/demo/demo.js",
+		"/C/Users/todd/Source/TrackJS/tracker/src/trackJs.js",
+		"/C/Users/todd/Source/TrackJS/tracker/tests/system/shared/network_jquery_tests.js",
+		"/C/Users/todd/Source/TrackJS/tracker/src/module/tracker.console.js",
+		"/C/Users/todd/Source/TrackJS/tracker/tests/shared/console.events.tests.js",
+		"/C/Users/todd/Source/TrackJS/tracker/src/module/tracker.customer.js",
+		"/C/Users/todd/Source/TrackJS/tracker/src/tracker.js",
+		"/C/Users/todd/Source/TrackJS/tracker/src/module/tracker.core.js",
+		"/C/Users/todd/Source/TrackJS/tracker/tests/shared/customer_tests.js",
+		"/C/Users/todd/Source/TrackJS/tracker/tests/browsers/win7-firefox29.js",
+		"/C/Users/todd/Source/TrackJS/tracker/tests/browsers/win7-ie10.js",
+		"/C/Users/todd/Source/TrackJS/tracker/tests/browsers/win7-ie8.js",
+		"/C/Users/todd/Source/TrackJS/tracker/tests/browsers/win7-ie9.js",
+		"/C/Users/todd/Source/TrackJS/tracker/tests/browsers/win7-chrome34.js",
+		"/C/Users/todd/Source/TrackJS/tracker/tests/browsers/win7-firefox28.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+			"supporter"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"closure",
+			"<wp:post_id>",
+			"imagesbymoak.com",
+			"fff",
+			"logo",
+			"/p2",
+			"imagesbymoak.com/wp-content/uploads/",
+			"sponsor"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"www.jennmoakphotography.com/blog/wp-content/uploads/",
+			"supporter"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "duckpunch.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\todd\\Source\\duckpunch\\duckpunch.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
