@@ -88,3 +88,15 @@
   });
 
 })(window, document);
+
+
+
+
+/**
+  * Demo Notes
+  * Show the behavior of _.map by default in the
+  * console. Add a reference to instrument and review
+  * this code. Then show the behavior again.
+  *
+  * _.map([1,2,3], function (i) { return i*i; });
+  */

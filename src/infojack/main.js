@@ -1,6 +1,5 @@
 (function (window, document) {
   "use strict";
-  document.addEventListener("DOMContentLoaded", function onLoad (event) {
 
     // References to the DOM Elements.
     var form = document.getElementById("form-email");
@@ -32,6 +31,5 @@
       return false;
     });
 
-  });
 
 })(window, document);
