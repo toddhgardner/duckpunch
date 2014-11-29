@@ -20,6 +20,7 @@
       var fnReference = object[prop];
 
       // Redefine (duck-punch) the function on the original object.
+      // Ex: _.map
       object[prop] = function () {
 
         // Format and log the calling context
