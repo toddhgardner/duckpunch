@@ -4,14 +4,15 @@
 // And adapted to simplify for demonstration purposes
 // of polyfill
 
-(function(console) {
+(function(window) {
   "use strict";
 
+  var console = window.console || {};
+  var dummy = function () {};
   var method;
-  var dummy = console.log || function() {};
 
   // Methods we are going to punch onto console
-  var methods = ["magic","debug","error","info","log","warn"];
+  var methods = ["debug","error","info","log","warn","magic"];
 
   // Iterate over the methods
   while (method = methods.pop()) {
@@ -22,6 +23,8 @@
 
   }
 
-// Invoke the IIFE with a guaranteed console
-})(window.console = window.console || {});
+  // put our polyfill console back onto window
+  window.console = console;
 
+
+})(window);
