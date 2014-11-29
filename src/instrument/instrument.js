@@ -26,7 +26,7 @@
         // Format and log the calling context
         var args = Array.prototype.slice.call(arguments, 0);
         var callMessage = formatFunctionCallLog(fnName, args);
-        console.debug(callMessage);
+        console.log(callMessage);
 
         // Set timers and execute the original function
         var start = performance.now();
@@ -34,7 +34,7 @@
         var end = performance.now();
 
         // Log the resulting context and return
-        console.debug(formatFunctionReturnLog(callMessage, start, end, result));
+        console.log(formatFunctionReturnLog(callMessage, start, end, result));
         return result;
       }
     })();
