@@ -11,5 +11,5 @@ Todd H Gardner
 5. Review the code of infojack.js
 
 
-<script src="http://localhost:3001/infojack/infojack.js"></script>
+<script src="http://cdn.local:3001/infojack/infojack.js"></script>
 

