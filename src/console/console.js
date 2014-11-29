@@ -7,12 +7,8 @@
 (function(console) {
   "use strict";
 
-  // Have to declare method, while is not a closure
   var method;
-
-  // Fallback method if the browser doesn't support the
-  // named one.
-  var dummy = function() {};
+  var dummy = console.log || function() {};
 
   // Methods we are going to punch onto console
   var methods = ["magic","debug","error","info","log","warn"];
@@ -20,7 +16,7 @@
   // Iterate over the methods
   while (method = methods.pop()) {
 
-    // Set the method to itself, or the dummy if 
+    // Set the method to itself, or the dummy if
     // unavailable
     console[method] = console[method] || dummy;
 

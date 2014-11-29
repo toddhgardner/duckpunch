@@ -20,12 +20,3 @@
 
 })(window, document);
 
-
-
-
-/**
-  * Demo Notes
-  * Remove the Array.prototype.toJSON for serialize,
-  * then restore it after to leave the environment
-  * in the same state
-  */

