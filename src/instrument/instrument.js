@@ -21,7 +21,7 @@
 
       // Redefine (duck-punch) the function on the original object.
       // Ex: _.map
-      object[prop] = function () {
+      object[fnName] = function () {
 
         // Format and log the calling context
         var args = Array.prototype.slice.call(arguments, 0);

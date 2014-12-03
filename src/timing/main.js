@@ -1,7 +1,7 @@
 (function ($) {
   "use strict";
 
-  $("#ajax-button").on("click", function onSubmit (event) {
+  $("#ajax-button").on("click", function onClick (event) {
 
     $.ajax({
       type: "POST",
